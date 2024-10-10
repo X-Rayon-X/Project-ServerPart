@@ -1,0 +1,4 @@
+﻿  CPZ_Lab5(Server).cpp
+C:\Users\bakay\source\repos\CPZ_Lab5(Server)\CPZ_Lab5(Server)\CPZ_Lab5(Server).cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bakay\source\repos\CPZ_Lab5(Server)\CPZ_Lab5(Server)\CPZ_Lab5(Server).cpp(175,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CPZ_Lab5(Server).vcxproj -> C:\Users\bakay\source\repos\CPZ_Lab5(Server)\x64\Debug\CPZ_Lab5(Server).exe
